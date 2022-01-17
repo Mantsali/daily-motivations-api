@@ -27,24 +27,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '1ddeec17e898967b11b1d5aa10fc280c97d1dc00',
     'name' => '__root__',
   ),
   'versions' => 
   array (
     '__root__' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '1ddeec17e898967b11b1d5aa10fc280c97d1dc00',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -66,12 +66,12 @@ private static $installed = array (
     ),
     'mongodb/mongodb' => 
     array (
-      'pretty_version' => '1.8.0',
-      'version' => '1.8.0.0',
+      'pretty_version' => '1.11.0',
+      'version' => '1.11.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '953dbc19443aa9314c44b7217a16873347e6840d',
+      'reference' => 'e4aa59ab15b6fe00a0e56b6772f8b515a0f01bf0',
     ),
     'ocramius/package-versions' => 
     array (
