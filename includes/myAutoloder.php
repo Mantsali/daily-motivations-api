@@ -5,7 +5,7 @@ spl_autoload_register('myAutoloder');
 
 function myAutoloder($className)
 {
-    $path = "../objects/"; //"objects/";
+    $path = "../../objects/"; //"objects/";
     $extension = ".php";
     $fullPath = $path . $className . $extension;
 
